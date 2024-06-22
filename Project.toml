@@ -8,6 +8,7 @@ Hadamard = "4a05ff16-5f95-55f4-bb53-bb3f467c689a"
 
 [compat]
 julia = "1.6, 1.7, 1.8, 1.9, 1.10"
+Hadamard = "1.2.0"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
