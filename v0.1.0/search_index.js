@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = Walsh","category":"page"},{"location":"#Walsh","page":"Home","title":"Walsh","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for Walsh.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [Walsh]","category":"page"},{"location":"#Walsh.walsh-Tuple{Any}","page":"Home","title":"Walsh.walsh","text":"walsh(n)\n\nreturn ntimes n Walsh matrix by bit-reversal permutation of Hadamard matrix.\n\nnote: Note\nIf n is not a power of 2, an error occurs.\n\n\n\n\n\n","category":"method"}]
+}
