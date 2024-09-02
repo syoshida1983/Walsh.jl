@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> The functions provided by this package have been merged into [Hadamard.jl](https://github.com/JuliaMath/Hadamard.jl).
+
 # Walsh
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://syoshida1983.github.io/Walsh.jl/stable/)
